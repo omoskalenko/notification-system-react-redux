@@ -1,11 +1,3 @@
-import {
-  NOTIFICATION_SHOW,
-  NOTIFICATION_SUCCESS,
-  NOTIFICATION_ERROR,
-  NOTIFICATION_WARNING,
-  NOTIFICATION_INFO,
-} from '../actions'
-
 const initialState = {
   error: false,
   notifications: {},

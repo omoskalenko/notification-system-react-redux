@@ -2,7 +2,7 @@
   "name": "notification-system-react-redux",
   "version": "1.0.0",
   "description": "Notification system for react applications with redux",
-  "main": "NotyficationContainer.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
