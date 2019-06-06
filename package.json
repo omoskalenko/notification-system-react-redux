@@ -1,0 +1,26 @@
+{
+  "name": "notification-system-react-redux",
+  "version": "1.0.0",
+  "description": "Notification system for react applications with redux",
+  "main": "NotyficationContainer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omoskalenko/notification-system-react-redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "notification",
+    "notify",
+    "system"
+  ],
+  "author": "Oleg Moskalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omoskalenko/notification-system-react-redux/issues"
+  },
+  "homepage": "https://github.com/omoskalenko/notification-system-react-redux#readme"
+}

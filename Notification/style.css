@@ -1,0 +1,24 @@
+#notifications {
+  position: absolute;
+  bottom: 30px;
+  right: 50px;
+  color: #fff;
+  padding: 20px;
+}
+
+#notifications .notification {
+  margin-bottom: 10px;
+  color: #fff;
+  padding: 20px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 2px;
+}
+
+#notifications .notification:hover {
+  border: 2px solid #333;
+}
+
+#notifications .notification i {
+  margin: 10px;
+}
